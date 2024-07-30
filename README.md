@@ -11,7 +11,7 @@ git clone https://github.com/qwexsa1/autoaireplay-ng.git
 cd autoaireplay-ng
 ```
 ```
-chmod +x aireplay.sj
+chmod +x aireplay.sh
 ```
 ```
 bash aireplay.sh
